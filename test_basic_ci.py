@@ -9,7 +9,7 @@ def test_ci_is_working():
     이 테스트가 통과하면:
     - pytest가 정상 설치됨
     - GitHub Actions에서 테스트가 실행됨
-    - CI 파이프라인이 살아있음
+    - CI 파이프라인이 살아있음 살아있는게 맞느냐 모르겠다 확인핅요.
     """
     assert 1 + 1 == 2
 
